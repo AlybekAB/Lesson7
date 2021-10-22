@@ -1,5 +1,5 @@
-void main() {}
-  { int mul(int a, int b) {
+void main() {
+  int mul(int a, int b) {
     int c;
     c = a + b;
     print("Сумма:${c}");
