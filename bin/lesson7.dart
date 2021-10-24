@@ -1,8 +1,10 @@
 main() {
-  for (int i = 0; i < 10; i++) {
-    print(i);
-    task1();
-  }
+  task1();
+  task2();
+  task3();
+  task4();
+  task5();
+  task6();
 }
 
 void task1() {
